@@ -100,7 +100,7 @@
     "wof:concordances_official":"hasc:id",
     "wof:country":"BN",
     "wof:created":1459009760,
-    "wof:geomhash":"32dd289350dd99d83bd3f3f8adbafdf3",
+    "wof:geomhash":"ee2ce67d97e8264cfeadda0cdc3e7228",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -127,5 +127,5 @@
     114.896392,
     4.876152
 ],
-  "geometry": {"coordinates":[114.89639200000001,4.876152],"type":"Point"}
+  "geometry": {"coordinates":[114.896392,4.876152],"type":"Point"}
 }

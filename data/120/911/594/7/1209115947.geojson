@@ -44,7 +44,7 @@
         "gn:id":1820716
     },
     "wof:country":"BN",
-    "wof:geomhash":"e4ac76b0015efd6687dcf91e3bc74cc8",
+    "wof:geomhash":"7acfdcbe0bc3c5df0cb5f92a0014754b",
     "wof:hierarchy":[
         {
             "country_id":85632749,
@@ -67,5 +67,5 @@
     115.03506000000002,
     4.98203
 ],
-  "geometry": {"coordinates":[115.03506000000002,4.98203],"type":"Point"}
+  "geometry": {"coordinates":[115.03506,4.98203],"type":"Point"}
 }
