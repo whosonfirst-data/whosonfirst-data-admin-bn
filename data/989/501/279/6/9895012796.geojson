@@ -1,0 +1,72 @@
+{
+  "id": 9895012796,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.65045,4.72741,114.65045,4.72741",
+    "geom:latitude":4.72741,
+    "geom:longitude":114.65045,
+    "iso:country":"BN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13606564: name \"Kampung Bukit Udal\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13606564"
+        },
+        {
+            "citation":"GeoNames populated place 13606564: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13606564"
+        },
+        {
+            "citation":"GeoNames populated place 13606564: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13606564"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85669495 (Tutong), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632749,
+        85669495,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13606564
+    },
+    "wof:country":"BN",
+    "wof:geomhash":"5f27b22d5e0906c180bb84ed2fa6d82e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "locality_id":9895012796,
+            "region_id":85669495
+        }
+    ],
+    "wof:id":9895012796,
+    "wof:lastmodified":1795735084,
+    "wof:name":"Kampung Bukit Udal",
+    "wof:parent_id":85669495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.65045,
+    4.72741,
+    114.65045,
+    4.72741
+],
+  "geometry": {"coordinates":[114.65045,4.72741],"type":"Point"}
+}

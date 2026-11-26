@@ -1,0 +1,72 @@
+{
+  "id": 9895012755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.45816,4.405,114.45816,4.405",
+    "geom:latitude":4.405,
+    "geom:longitude":114.45816,
+    "iso:country":"BN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13602706: name \"Kampung Kabi Lama\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13602706"
+        },
+        {
+            "citation":"GeoNames populated place 13602706: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13602706"
+        },
+        {
+            "citation":"GeoNames populated place 13602706: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13602706"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85669485 (Belait), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632749,
+        85669485,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13602706
+    },
+    "wof:country":"BN",
+    "wof:geomhash":"3c51a8eac201fd4d076741c1a5cb50d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "locality_id":9895012755,
+            "region_id":85669485
+        }
+    ],
+    "wof:id":9895012755,
+    "wof:lastmodified":1795735084,
+    "wof:name":"Kampung Kabi Lama",
+    "wof:parent_id":85669485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.45816,
+    4.405,
+    114.45816,
+    4.405
+],
+  "geometry": {"coordinates":[114.45816,4.405],"type":"Point"}
+}

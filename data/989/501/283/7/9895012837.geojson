@@ -1,0 +1,72 @@
+{
+  "id": 9895012837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.84476,4.9087,114.84476,4.9087",
+    "geom:latitude":4.9087,
+    "geom:longitude":114.84476,
+    "iso:country":"BN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13626511: name \"Kampung Tagap\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13626511"
+        },
+        {
+            "citation":"GeoNames populated place 13626511: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13626511"
+        },
+        {
+            "citation":"GeoNames populated place 13626511: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13626511"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85669487 (Brunei and Muara), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632749,
+        85669487,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13626511
+    },
+    "wof:country":"BN",
+    "wof:geomhash":"49d8d265b596247e576f9ae999ab1858",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "locality_id":9895012837,
+            "region_id":85669487
+        }
+    ],
+    "wof:id":9895012837,
+    "wof:lastmodified":1795735084,
+    "wof:name":"Kampung Tagap",
+    "wof:parent_id":85669487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.84476,
+    4.9087,
+    114.84476,
+    4.9087
+],
+  "geometry": {"coordinates":[114.84476,4.9087],"type":"Point"}
+}

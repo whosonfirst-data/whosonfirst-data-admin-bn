@@ -1,0 +1,72 @@
+{
+  "id": 9895012786,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.06839,4.68835,115.06839,4.68835",
+    "geom:latitude":4.68835,
+    "geom:longitude":115.06839,
+    "iso:country":"BN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13603195: name \"Kampung Kinalong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13603195"
+        },
+        {
+            "citation":"GeoNames populated place 13603195: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13603195"
+        },
+        {
+            "citation":"GeoNames populated place 13603195: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13603195"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85669491 (Temburong), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632749,
+        85669491,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13603195
+    },
+    "wof:country":"BN",
+    "wof:geomhash":"b46a4197e7a2227311fabb9ea064aa56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "locality_id":9895012786,
+            "region_id":85669491
+        }
+    ],
+    "wof:id":9895012786,
+    "wof:lastmodified":1795735084,
+    "wof:name":"Kampung Kinalong",
+    "wof:parent_id":85669491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.06839,
+    4.68835,
+    115.06839,
+    4.68835
+],
+  "geometry": {"coordinates":[115.06839,4.68835],"type":"Point"}
+}

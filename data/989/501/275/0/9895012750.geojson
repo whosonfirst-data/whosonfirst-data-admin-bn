@@ -1,0 +1,72 @@
+{
+  "id": 9895012750,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.44944,4.66021,114.44944,4.66021",
+    "geom:latitude":4.66021,
+    "geom:longitude":114.44944,
+    "iso:country":"BN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13602695: name \"Kampung Sungai Bakong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13602695"
+        },
+        {
+            "citation":"GeoNames populated place 13602695: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13602695"
+        },
+        {
+            "citation":"GeoNames populated place 13602695: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13602695"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85669485 (Belait), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632749,
+        85669485,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13602695
+    },
+    "wof:country":"BN",
+    "wof:geomhash":"62eede16c0012dd67e697434b9f932b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "locality_id":9895012750,
+            "region_id":85669485
+        }
+    ],
+    "wof:id":9895012750,
+    "wof:lastmodified":1795735084,
+    "wof:name":"Kampung Sungai Bakong",
+    "wof:parent_id":85669485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.44944,
+    4.66021,
+    114.44944,
+    4.66021
+],
+  "geometry": {"coordinates":[114.44944,4.66021],"type":"Point"}
+}

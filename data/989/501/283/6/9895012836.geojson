@@ -1,0 +1,72 @@
+{
+  "id": 9895012836,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.9467,4.89157,114.9467,4.89157",
+    "geom:latitude":4.89157,
+    "geom:longitude":114.9467,
+    "iso:country":"BN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13626509: name \"Kampung Kianggeh\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13626509"
+        },
+        {
+            "citation":"GeoNames populated place 13626509: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13626509"
+        },
+        {
+            "citation":"GeoNames populated place 13626509: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13626509"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85669487 (Brunei and Muara), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632749,
+        85669487,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13626509
+    },
+    "wof:country":"BN",
+    "wof:geomhash":"c69856fad0f58c50c4117035fdcc45e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "locality_id":9895012836,
+            "region_id":85669487
+        }
+    ],
+    "wof:id":9895012836,
+    "wof:lastmodified":1795735084,
+    "wof:name":"Kampung Kianggeh",
+    "wof:parent_id":85669487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.9467,
+    4.89157,
+    114.9467,
+    4.89157
+],
+  "geometry": {"coordinates":[114.9467,4.89157],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 9895012866,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.68213,4.66301,114.68213,4.66301",
+    "geom:latitude":4.66301,
+    "geom:longitude":114.68213,
+    "gn:population":161,
+    "iso:country":"BN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13631427: name \"Kampong Bukit Bang Dalam\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13631427"
+        },
+        {
+            "citation":"GeoNames populated place 13631427: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13631427"
+        },
+        {
+            "citation":"GeoNames populated place 13631427: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13631427"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85669495 (Tutong), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632749,
+        85669495,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13631427
+    },
+    "wof:country":"BN",
+    "wof:geomhash":"fc2f7286bdf1e5ffffaf17a73bd30d33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "locality_id":9895012866,
+            "region_id":85669495
+        }
+    ],
+    "wof:id":9895012866,
+    "wof:lastmodified":1795735084,
+    "wof:name":"Kampong Bukit Bang Dalam",
+    "wof:parent_id":85669495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.68213,
+    4.66301,
+    114.68213,
+    4.66301
+],
+  "geometry": {"coordinates":[114.68213,4.66301],"type":"Point"}
+}
