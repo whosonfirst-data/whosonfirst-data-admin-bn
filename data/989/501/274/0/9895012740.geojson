@@ -1,0 +1,72 @@
+{
+  "id": 9895012740,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.46614,4.40456,114.46614,4.40456",
+    "geom:latitude":4.40456,
+    "geom:longitude":114.46614,
+    "iso:country":"BN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13602682: name \"Kampung Kenapol\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13602682"
+        },
+        {
+            "citation":"GeoNames populated place 13602682: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13602682"
+        },
+        {
+            "citation":"GeoNames populated place 13602682: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13602682"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85669485 (Belait), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632749,
+        85669485,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13602682
+    },
+    "wof:country":"BN",
+    "wof:geomhash":"75db798f1f63f1c80028a27a1148710e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "locality_id":9895012740,
+            "region_id":85669485
+        }
+    ],
+    "wof:id":9895012740,
+    "wof:lastmodified":1795735084,
+    "wof:name":"Kampung Kenapol",
+    "wof:parent_id":85669485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.46614,
+    4.40456,
+    114.46614,
+    4.40456
+],
+  "geometry": {"coordinates":[114.46614,4.40456],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 9895012865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.69518,4.67882,114.69518,4.67882",
+    "geom:latitude":4.67882,
+    "geom:longitude":114.69518,
+    "gn:population":267,
+    "iso:country":"BN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13631426: name \"Kampung Biong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13631426"
+        },
+        {
+            "citation":"GeoNames populated place 13631426: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13631426"
+        },
+        {
+            "citation":"GeoNames populated place 13631426: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13631426"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85669495 (Tutong), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632749,
+        85669495,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13631426
+    },
+    "wof:country":"BN",
+    "wof:geomhash":"30f1baaa5dfa0a291efd49b83dabefde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "locality_id":9895012865,
+            "region_id":85669495
+        }
+    ],
+    "wof:id":9895012865,
+    "wof:lastmodified":1795735084,
+    "wof:name":"Kampung Biong",
+    "wof:parent_id":85669495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.69518,
+    4.67882,
+    114.69518,
+    4.67882
+],
+  "geometry": {"coordinates":[114.69518,4.67882],"type":"Point"}
+}

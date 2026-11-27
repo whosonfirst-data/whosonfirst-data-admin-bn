@@ -1,0 +1,73 @@
+{
+  "id": 9895012861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.77913,4.82059,114.77913,4.82059",
+    "geom:latitude":4.82059,
+    "geom:longitude":114.77913,
+    "gn:population":457,
+    "iso:country":"BN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13631420: name \"Kampung Maraburong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13631420"
+        },
+        {
+            "citation":"GeoNames populated place 13631420: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13631420"
+        },
+        {
+            "citation":"GeoNames populated place 13631420: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13631420"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85669487 (Brunei and Muara), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632749,
+        85669487,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13631420
+    },
+    "wof:country":"BN",
+    "wof:geomhash":"e8b10dba0912920ad5fddf5a627f21ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "locality_id":9895012861,
+            "region_id":85669487
+        }
+    ],
+    "wof:id":9895012861,
+    "wof:lastmodified":1795735084,
+    "wof:name":"Kampung Maraburong",
+    "wof:parent_id":85669487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.77913,
+    4.82059,
+    114.77913,
+    4.82059
+],
+  "geometry": {"coordinates":[114.77913,4.82059],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895012848,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.93406,4.91349,114.93406,4.91349",
+    "geom:latitude":4.91349,
+    "geom:longitude":114.93406,
+    "iso:country":"BN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13626532: name \"Kampung Melabau\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13626532"
+        },
+        {
+            "citation":"GeoNames populated place 13626532: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13626532"
+        },
+        {
+            "citation":"GeoNames populated place 13626532: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13626532"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85669487 (Brunei and Muara), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632749,
+        85669487,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13626532
+    },
+    "wof:country":"BN",
+    "wof:geomhash":"0ba3eb2a412be2b782ab71732d500763",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "locality_id":9895012848,
+            "region_id":85669487
+        }
+    ],
+    "wof:id":9895012848,
+    "wof:lastmodified":1795735084,
+    "wof:name":"Kampung Melabau",
+    "wof:parent_id":85669487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.93406,
+    4.91349,
+    114.93406,
+    4.91349
+],
+  "geometry": {"coordinates":[114.93406,4.91349],"type":"Point"}
+}

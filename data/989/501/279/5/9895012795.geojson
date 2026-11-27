@@ -1,0 +1,72 @@
+{
+  "id": 9895012795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.64846,4.69785,114.64846,4.69785",
+    "geom:latitude":4.69785,
+    "geom:longitude":114.64846,
+    "iso:country":"BN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13606563: name \"Kampung Sungai Damit Pemadang\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13606563"
+        },
+        {
+            "citation":"GeoNames populated place 13606563: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13606563"
+        },
+        {
+            "citation":"GeoNames populated place 13606563: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13606563"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85669495 (Tutong), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632749,
+        85669495,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13606563
+    },
+    "wof:country":"BN",
+    "wof:geomhash":"216962da34436154e3b950ae7e1a1546",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "locality_id":9895012795,
+            "region_id":85669495
+        }
+    ],
+    "wof:id":9895012795,
+    "wof:lastmodified":1795735084,
+    "wof:name":"Kampung Sungai Damit Pemadang",
+    "wof:parent_id":85669495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.64846,
+    4.69785,
+    114.64846,
+    4.69785
+],
+  "geometry": {"coordinates":[114.64846,4.69785],"type":"Point"}
+}

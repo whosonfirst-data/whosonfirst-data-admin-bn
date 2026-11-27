@@ -1,0 +1,72 @@
+{
+  "id": 9895012787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.1634,4.70383,115.1634,4.70383",
+    "geom:latitude":4.70383,
+    "geom:longitude":115.1634,
+    "iso:country":"BN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13603196: name \"Kampung Rebada\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13603196"
+        },
+        {
+            "citation":"GeoNames populated place 13603196: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13603196"
+        },
+        {
+            "citation":"GeoNames populated place 13603196: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13603196"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85669491 (Temburong), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632749,
+        85669491,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13603196
+    },
+    "wof:country":"BN",
+    "wof:geomhash":"66d1b9f43cb4d58c9bcd1aa214a13c3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "locality_id":9895012787,
+            "region_id":85669491
+        }
+    ],
+    "wof:id":9895012787,
+    "wof:lastmodified":1795735084,
+    "wof:name":"Kampung Rebada",
+    "wof:parent_id":85669491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.1634,
+    4.70383,
+    115.1634,
+    4.70383
+],
+  "geometry": {"coordinates":[115.1634,4.70383],"type":"Point"}
+}

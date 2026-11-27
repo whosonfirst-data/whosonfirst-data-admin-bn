@@ -1,0 +1,72 @@
+{
+  "id": 9895012746,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.43823,4.33666,114.43823,4.33666",
+    "geom:latitude":4.33666,
+    "geom:longitude":114.43823,
+    "iso:country":"BN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13602690: name \"Kampung Mendaram Kecil\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13602690"
+        },
+        {
+            "citation":"GeoNames populated place 13602690: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13602690"
+        },
+        {
+            "citation":"GeoNames populated place 13602690: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13602690"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85669485 (Belait), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632749,
+        85669485,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13602690
+    },
+    "wof:country":"BN",
+    "wof:geomhash":"2ad9b38822b1e4e89c6f653423eaf86d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "locality_id":9895012746,
+            "region_id":85669485
+        }
+    ],
+    "wof:id":9895012746,
+    "wof:lastmodified":1795735084,
+    "wof:name":"Kampung Mendaram Kecil",
+    "wof:parent_id":85669485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.43823,
+    4.33666,
+    114.43823,
+    4.33666
+],
+  "geometry": {"coordinates":[114.43823,4.33666],"type":"Point"}
+}

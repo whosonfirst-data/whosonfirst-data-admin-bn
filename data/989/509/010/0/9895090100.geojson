@@ -1,0 +1,73 @@
+{
+  "id": 9895090100,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.77904,4.63666,114.77904,4.63666",
+    "geom:latitude":4.63666,
+    "geom:longitude":114.77904,
+    "gn:population":8,
+    "iso:country":"BN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13631424: name \"Hutan Simpan Bukit Ladan\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13631424"
+        },
+        {
+            "citation":"GeoNames populated place 13631424: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13631424"
+        },
+        {
+            "citation":"GeoNames populated place 13631424: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13631424"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85669495 (Tutong), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632749,
+        85669495,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13631424
+    },
+    "wof:country":"BN",
+    "wof:geomhash":"13fab59e6fe52d252ef2d59a1c3b6590",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "locality_id":9895090100,
+            "region_id":85669495
+        }
+    ],
+    "wof:id":9895090100,
+    "wof:lastmodified":1795746172,
+    "wof:name":"Hutan Simpan Bukit Ladan",
+    "wof:parent_id":85669495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.77904,
+    4.63666,
+    114.77904,
+    4.63666
+],
+  "geometry": {"coordinates":[114.77904,4.63666],"type":"Point"}
+}
